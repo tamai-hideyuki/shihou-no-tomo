@@ -1,4 +1,4 @@
-## 📜 shihou-no-tomo：設計書（V1.0）
+## 📜 shihou-no-tomo：要件定義
 
 ## 🎯 目的：
 - 日本のe-Gov法令XML APIをもとに、
